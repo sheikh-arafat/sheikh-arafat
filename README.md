@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheikh Mohammad Arafat</h1>
-<h3 align="center">Just another coder..</h3>
+<h1 align="center">Hi 👋, Greetings from Arafat!</h1>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-arafat&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-arafat" /> </p>
 
