@@ -10,6 +10,10 @@
 
 <!--- ⚡ Pursuing **Data Science, Data Engineering and Machine Learning**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sheikh-arafat)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-arafat)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
